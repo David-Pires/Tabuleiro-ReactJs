@@ -11,6 +11,8 @@ export default function Tabuleiro(props) {
       <Linha preta/>
       <Linha/>
       <Linha preta/>
+      <Linha/>
+
 
 
 
